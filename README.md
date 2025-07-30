@@ -18,7 +18,7 @@ Hi, I'm Ishan, a passionate B.Tech graduate specializing in Artificial Intellige
 - **Machine Learning:** Model Training, Predictive Modeling, ML Pipelines
 - **Data Analytics:** Exploratory Data Analysis (EDA), Data Modeling, Analytical Reporting
 - **Artificial Intelligence:** Generative AI, AI Strategy Design, Automation Planning
-- **Tools:** Tableau, Google Cloud (Firebase, AppSheet, Flutter, Looker, Google Sheets), IBM Cloud, Spreadsheets
+- **Tools:** Tableau, PowerBI , Google Cloud (Firebase, AppSheet, Flutter, Looker, Google Sheets), IBM Cloud, Spreadsheets
 - **Other:** Problem Solving, Business Communications, Strategic Thinking, Ethical Reasoning
 
 ---
