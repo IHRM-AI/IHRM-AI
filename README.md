@@ -1,99 +1,98 @@
-# Ishan — AI/ML Enthusiast
+# Ishan Mishra — Machine Learning Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ihrm-ishan/)
+![Profile Views](https://komarev.com/ghpvc/?username=ihrm-ishan&color=blue)
 
 ---
 
 ## 👋 About Me
 
-Hi, I'm Ishan, a passionate B.Tech graduate specializing in Artificial Intelligence & Machine Learning. I'm an avid learner, always eager to embrace new challenges and explore the latest technologies in the world of AI.
+I’m **Ishan**, a B.Tech graduate and **Machine Learning Engineer** focused on building **production-ready AI systems**.  
+I work at the intersection of **ML, Generative AI, and Cloud**, turning ideas into scalable, real-world solutions.
 
-> **Bio:** Enthusiast to learn new things and challenge acceptor.
-
----
-
-## 🚀 Skills
-
-- **Programming:** Python
-- **Machine Learning:** Model Training, Predictive Modeling, ML Pipelines
-- **Data Analytics:** Exploratory Data Analysis (EDA), Data Modeling, Analytical Reporting
-- **Artificial Intelligence:** Generative AI, AI Strategy Design, Automation Planning
-- **Tools:** Tableau, PowerBI , Google Cloud (Firebase, AppSheet, Flutter, Looker, Google Sheets), IBM Cloud, Spreadsheets
-- **Other:** Problem Solving, Business Communications, Strategic Thinking, Ethical Reasoning
+> **Current focus:** LLMs, RAG systems, ML deployment, and cloud-native AI pipelines.
 
 ---
 
-## 🏆 Certifications & Badges
+## 🧠 What I’m Working On
 
-### **Tata Insights and Quants (Tata Industries Limited)**
-- **GenAI Powered Data Analytics**  
-  _Jul 2025 — Credential ID: tZFzqgg3D5uGKddbQ_  
-  _Skills: Generative AI Tools, Data Analytics, AI Strategy Design, Analytical Reporting, Automation Planning, GenAI Data Insights, Model Selection, Regulatory Awareness, Strategic Thinking_
-
----
-
-### **Deloitte Australia**
-- **Data Analytics**  
-  _Jun 2025 — Credential ID: oNhp25c9hKBiqN7vx_  
-  _Skills: Data Analytics, Data Modeling, Tableau, Spreadsheets_
+- 🔹 **Large Language Models (LLMs)** – Fine-tuning, LoRA, inference optimization  
+- 🔹 **Retrieval-Augmented Generation (RAG)** – Vector DBs, embeddings, evaluation  
+- 🔹 **Generative AI Applications** – Chatbots, AI agents, automation workflows  
+- 🔹 **ML System Design** – End-to-end pipelines, model serving, monitoring  
+- 🔹 **Cloud & MLOps** – GCP-based deployments, containerization, CI/CD  
+- 🔹 **Responsible AI** – Model governance, privacy, regulatory awareness  
 
 ---
 
-### **Infosys Springboard**
-- **Generative AI Landscape**  
-  _Aug 2024_
+## ⚙️ Technical Skills
+
+### **Programming & Core**
+- Python, SQL  
+- Data Structures, Problem Solving
+
+### **Machine Learning & AI**
+- Supervised & Unsupervised Learning  
+- Deep Learning (CNNs, Transformers)  
+- Generative AI (LLMs, Prompt Engineering, Agents)  
+- Model Training, Evaluation & Optimization  
+- Feature Engineering, EDA  
+
+### **NLP & LLM Stack**
+- Hugging Face, PEFT, LoRA  
+- RAG Architecture  
+- Embeddings & Similarity Search  
+- Prompt Design & Evaluation  
+
+### **Data & Analytics**
+- Pandas, NumPy  
+- Tableau, Power BI  
+- Analytical Reporting  
+
+### **Cloud & Tools**
+- **Google Cloud Platform (GCP)**  
+  - Firebase, AppSheet, Flutter, Looker  
+- IBM Cloud  
+- Git, GitHub  
+- Spreadsheets & Automation Tools  
 
 ---
 
-### **J.P. Morgan / JPMorgan Chase (Forage)**
-- **Software Engineering Job Simulation**  
-  _Jan 2024 — Credential ID: nrkpwrnNk2z96wL2w_  
-  _Skills: Software Development_
-- **Investment Banking Job Simulation**  
-  _Jan 2024 — Credential ID: xHAKujWu75ThkZYBg_  
-  _Skills: Investment Banking_
+## 🏗️ Selected Work Areas
+
+- AI-powered decision support systems  
+- Intelligent document processing  
+- Conversational AI & legal/enterprise assistants  
+- Data-driven dashboards with AI insights  
+- Cloud-hosted ML services  
 
 ---
 
-### **GUVI**
-- **AI For India 2.0**  
-  _Aug 2023 — Credential ID: 66Cq25A110UTnD2E91_  
-  _Skills: Artificial Intelligence (AI)_
+## 🏆 Certifications & Credentials (Highlights)
+
+- **Tata Insights & Quants** – GenAI Powered Data Analytics (2025)  
+- **Deloitte Australia** – Data Analytics (2025)  
+- **Infosys Springboard** – Generative AI Landscape  
+- **JPMorgan Chase (Forage)** – Software Engineering Simulation  
+- **IBM** – Data Science & ML Foundations  
+- **Google Cloud Skills Boost** – Firebase, AppSheet, Flutter, Looker  
 
 ---
 
-### **Google Cloud Skills Boost**
-- **Apps Scripts** (_Nov 2022 — Credential ID: 2835252_)
-- **Google AppSheet (NCN)** (_Nov 2022 — Credential ID: 2813387_)
-- **Firebase** (_Oct 2022 — Credential ID: 2782154_)
-- **Flutter** (_Oct 2022 — Credential ID: 2770209_)
-- **Google Sheets** (_Oct 2022 — Credential ID: 2756272_)
-- **Looker** (_Oct 2022 — Credential ID: 2761758_)
+## 📌 Philosophy
+
+- Build **useful AI**, not just demos  
+- Prefer **simple, scalable architectures**  
+- Think **ethics, privacy, and governance** from day one  
 
 ---
 
-### **IBM**
-- **Build Your Own Chatbot - Level 1** (_Sep 2022_)
-- **Cloud Core** (_Sep 2022 — Skills: Problem Solving_)
-- **Data Science Foundations - Level 1** (_Sep 2022 — Skills: Data Analysis_)
-- **Machine Learning with Python - Level 1** (_Sep 2022_)
+## 🌐 Connect
 
----
-
-## 🌐 Social
-
-- [LinkedIn](https://www.linkedin.com/in/ihrm-ishan/)
-
----
-
-## ✨ Fun Facts
-
-- I thrive on tackling new challenges and pushing my limits.
-- Always ready to learn, adapt, and grow in the field of technology.
-- Passionate about building solutions that make a difference.
+- 💼 LinkedIn: [ihrm-ishan](https://www.linkedin.com/in/ihrm-ishan/)
 
 ---
 
 <p align="center">
-  <b>Let's connect and create the future of AI together!</b>
+  <b>Building intelligent systems. Learning every day. Shipping with purpose.</b>
 </p>
