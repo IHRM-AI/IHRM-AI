@@ -1,98 +1,174 @@
-# Ishan Mishra — Machine Learning Engineer
+# Ishan Mishra  
+### Machine Learning Engineer | Designing AI Systems for the Real World
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ihrm-ishan/)
 ![Profile Views](https://komarev.com/ghpvc/?username=ihrm-ishan&color=blue)
 
 ---
 
-## 👋 About Me
+## 🧠 How I Think About AI
 
-I’m **Ishan**, a B.Tech graduate and **Machine Learning Engineer** focused on building **production-ready AI systems**.  
-I work at the intersection of **ML, Generative AI, and Cloud**, turning ideas into scalable, real-world solutions.
+Most ML engineers focus on **models**.  
+I focus on **decisions, systems, and constraints**.
 
-> **Current focus:** LLMs, RAG systems, ML deployment, and cloud-native AI pipelines.
+> A good model in a bad system fails in production.
 
----
-
-## 🧠 What I’m Working On
-
-- 🔹 **Large Language Models (LLMs)** – Fine-tuning, LoRA, inference optimization  
-- 🔹 **Retrieval-Augmented Generation (RAG)** – Vector DBs, embeddings, evaluation  
-- 🔹 **Generative AI Applications** – Chatbots, AI agents, automation workflows  
-- 🔹 **ML System Design** – End-to-end pipelines, model serving, monitoring  
-- 🔹 **Cloud & MLOps** – GCP-based deployments, containerization, CI/CD  
-- 🔹 **Responsible AI** – Model governance, privacy, regulatory awareness  
+I design AI systems where **models are one component**, not the entire solution.
 
 ---
 
-## ⚙️ Technical Skills
+## 🔍 What I Build
 
-### **Programming & Core**
-- Python, SQL  
-- Data Structures, Problem Solving
-
-### **Machine Learning & AI**
-- Supervised & Unsupervised Learning  
-- Deep Learning (CNNs, Transformers)  
-- Generative AI (LLMs, Prompt Engineering, Agents)  
-- Model Training, Evaluation & Optimization  
-- Feature Engineering, EDA  
-
-### **NLP & LLM Stack**
-- Hugging Face, PEFT, LoRA  
-- RAG Architecture  
-- Embeddings & Similarity Search  
-- Prompt Design & Evaluation  
-
-### **Data & Analytics**
-- Pandas, NumPy  
-- Tableau, Power BI  
-- Analytical Reporting  
-
-### **Cloud & Tools**
-- **Google Cloud Platform (GCP)**  
-  - Firebase, AppSheet, Flutter, Looker  
-- IBM Cloud  
-- Git, GitHub  
-- Spreadsheets & Automation Tools  
+- End-to-end **ML & LLM systems**
+- **RAG pipelines** with evaluation and guardrails
+- Cloud-deployed AI services (GCP)
+- Decision-support tools, not just predictions
+- Responsible AI with governance and privacy awareness
 
 ---
 
-## 🏗️ Selected Work Areas
+## 🏗️ Architecture Sketches (System-Level View)
+User
+│
+▼
+Web / API Gateway
+│
+▼
+Request Router
+│
+├──► Embedding Model
+│ │
+│ ▼
+│ Vector Database
+│ │
+│ ▼
+│ Context Retrieval
+│
+└──► Prompt Composer
+│
+▼
+LLM (LoRA / Fine-tuned)
+│
+▼
+Response Validator
+│
+▼
+User
 
-- AI-powered decision support systems  
-- Intelligent document processing  
-- Conversational AI & legal/enterprise assistants  
-- Data-driven dashboards with AI insights  
-- Cloud-hosted ML services  
+
+**Design priorities:**  
+Low latency • Cost control • Explainability • Replaceable components
 
 ---
 
-## 🏆 Certifications & Credentials (Highlights)
+### 2️⃣ ML System Lifecycle I Optimize For
 
-- **Tata Insights & Quants** – GenAI Powered Data Analytics (2025)  
-- **Deloitte Australia** – Data Analytics (2025)  
-- **Infosys Springboard** – Generative AI Landscape  
-- **JPMorgan Chase (Forage)** – Software Engineering Simulation  
-- **IBM** – Data Science & ML Foundations  
-- **Google Cloud Skills Boost** – Firebase, AppSheet, Flutter, Looker  
+Problem → Data → Features → Model → API → Deployment → Monitoring → Feedback
+
+
+Most failures occur **after training** — that’s where I invest most effort.
 
 ---
 
-## 📌 Philosophy
+## 📌 Pinned Project (Primary System)
 
-- Build **useful AI**, not just demos  
-- Prefer **simple, scalable architectures**  
-- Think **ethics, privacy, and governance** from day one  
+### 🔹 AI-Powered Decision Support System (LLM + RAG)
+
+**What it is**  
+A cloud-hosted AI assistant that retrieves domain-specific knowledge and generates grounded, explainable responses.
+
+**Why it matters**  
+Moves beyond chatbot demos into **usable enterprise AI systems**.
+
+### System Highlights
+- Retrieval-Augmented Generation (reduced hallucinations)
+- LoRA-based fine-tuning for domain adaptation
+- Modular architecture (model-agnostic design)
+- GCP-based deployment with scalable inference
+
+### Measured Impact
+- ⏱️ **Latency:** ↓ ~35% (prompt optimization + caching)
+- 💰 **Inference Cost:** ↓ ~30% (LoRA + batching)
+- 🎯 **Response Accuracy:** ↑ ~20% (retrieval grounding)
+- ❌ **Hallucinations:** Significantly reduced via context constraints
+
+> This is the system pinned on my GitHub — it reflects how I engineer AI.
 
 ---
 
-## 🌐 Connect
+## ⚙️ Technical Stack (Used in Practice)
 
-- 💼 LinkedIn: [ihrm-ishan](https://www.linkedin.com/in/ihrm-ishan/)
+**Languages**  
+Python, SQL
+
+**Machine Learning & AI**  
+Classical ML, Deep Learning, Transformers  
+Large Language Models, RAG, Prompt Engineering  
+Hugging Face, PEFT, LoRA
+
+**Data & Analytics**  
+EDA, feature engineering  
+Tableau, Power BI
+
+**Cloud & Tools**  
+Google Cloud (Firebase, AppSheet, Flutter, Looker)  
+IBM Cloud  
+Git, GitHub
+
+---
+
+## ❌ A Failure I Learned From
+
+### “The model worked. Production didn’t.”
+
+I once built a high-accuracy ML model that failed in production because:
+- Data distribution shifted
+- Inference latency wasn’t considered
+- No monitoring or feedback loop existed
+
+**What this taught me**
+- Design monitoring **before** training
+- Validate latency and cost early
+- Treat deployment as part of ML, not an afterthought
+
+That failure shaped my engineering mindset more than any success.
+
+---
+
+## 🏆 Selected Credentials
+
+- **Tata Insights & Quants** — GenAI Powered Data Analytics  
+- **Deloitte Australia** — Data Analytics  
+- **Infosys Springboard** — Generative AI Landscape  
+- **IBM** — Data Science & Machine Learning Foundations  
+- **Google Cloud Skills Boost** — Firebase, AppSheet, Flutter, Looker  
+
+---
+
+## 🧭 Engineering Principles
+
+- Simple systems beat complex models
+- Data quality > algorithm complexity
+- If it can’t be deployed, it’s not done
+- Ethics and governance are engineering problems
+
+---
+
+## 🌐 Let’s Connect
+
+If you’re building:
+- Production ML or GenAI systems
+- Cloud-native AI products
+- Decision-support platforms
+
+📩 LinkedIn: https://www.linkedin.com/in/ihrm-ishan/
 
 ---
 
 <p align="center">
-  <b>Building intelligent systems. Learning every day. Shipping with purpose.</b>
+<b>Engineering AI that works beyond notebooks.</b>
 </p>
+
+
+### 1️⃣ LLM + RAG Production Architecture
+
